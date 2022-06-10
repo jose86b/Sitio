@@ -63,8 +63,7 @@ function Asaid() {
               <a href="###" className="nav-link">
                 <i class="bi bi-bag-dash">  </i>
                 <p>Productos</p>
-              </a>
-            </li>
+             </li>
             <li className="nav-item">
               <a href="###" className="nav-link">
                 <i class="bi bi-people">  </i>
